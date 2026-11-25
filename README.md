@@ -49,3 +49,7 @@ A chave pública pode ficar no frontend porque o acesso aos dados é protegido p
 - O PDF usa cabeçalhos tipográficos provisórios. Para aplicar os logotipos oficiais, adicione os arquivos de logo e integre-os ao cabeçalho.
 - A geração de PDF ocorre no navegador. O site não salva histórico de orçamentos no banco nesta versão.
 - GitHub Pages hospeda somente o frontend estático. Supabase é necessário para login, banco e armazenamento.
+
+
+## Atualização visual dos orçamentos
+O PDF usa somente o símbolo dourado de cada marca. O cabeçalho da Vale Europeu usa verde-musgo; o da Rony Gigante usa preto. Os arquivos de imagem ficam em `assets/`.
